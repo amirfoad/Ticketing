@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "8K25z9HFe3olc2/MKYxDT6q0t8tha4nE+EJk4hIBoXE=",
+  "Source": "Ticketing.WebApi",
+  "BasePath": "_content/Ticketing.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Ticketing.WebApi\\wwwroot",
+      "Source": "Ticketing.WebApi",
+      "ContentRoot": "C:\\Users\\Amirfoad\\Source\\Repos\\amirfoad\\Ticketing\\Ticketing.WebApi\\wwwroot\\",
+      "BasePath": "_content/Ticketing.WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Amirfoad\\Source\\Repos\\amirfoad\\Ticketing\\Ticketing.WebApi\\wwwroot\\favicon.ico",
+      "SourceId": "Ticketing.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Amirfoad\\Source\\Repos\\amirfoad\\Ticketing\\Ticketing.WebApi\\wwwroot\\",
+      "BasePath": "_content/Ticketing.WebApi",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Amirfoad\\Source\\Repos\\amirfoad\\Ticketing\\Ticketing.WebApi\\wwwroot\\SwaggerUi\\SwaggerDark.css",
+      "SourceId": "Ticketing.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Amirfoad\\Source\\Repos\\amirfoad\\Ticketing\\Ticketing.WebApi\\wwwroot\\",
+      "BasePath": "_content/Ticketing.WebApi",
+      "RelativePath": "SwaggerUi/SwaggerDark.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\SwaggerUi\\SwaggerDark.css"
+    },
+    {
+      "Identity": "C:\\Users\\Amirfoad\\Source\\Repos\\amirfoad\\Ticketing\\Ticketing.WebApi\\wwwroot\\SwaggerUi\\SwaggerDark.user.css",
+      "SourceId": "Ticketing.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Amirfoad\\Source\\Repos\\amirfoad\\Ticketing\\Ticketing.WebApi\\wwwroot\\",
+      "BasePath": "_content/Ticketing.WebApi",
+      "RelativePath": "SwaggerUi/SwaggerDark.user.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\SwaggerUi\\SwaggerDark.user.css"
+    },
+    {
+      "Identity": "C:\\Users\\Amirfoad\\Source\\Repos\\amirfoad\\Ticketing\\Ticketing.WebApi\\wwwroot\\SwaggerUi\\swagger-ui-bundle.js",
+      "SourceId": "Ticketing.WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Amirfoad\\Source\\Repos\\amirfoad\\Ticketing\\Ticketing.WebApi\\wwwroot\\",
+      "BasePath": "_content/Ticketing.WebApi",
+      "RelativePath": "SwaggerUi/swagger-ui-bundle.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\SwaggerUi\\swagger-ui-bundle.js"
+    }
+  ]
+}

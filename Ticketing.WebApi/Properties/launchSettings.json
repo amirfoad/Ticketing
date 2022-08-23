@@ -1,0 +1,31 @@
+﻿{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:38132",
+      "sslPort": 44356
+    }
+  },
+  "profiles": {
+    "Ticketing.WebApi": {
+      "commandName": "Project",
+      "launchUrl": "swagger",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "WSL 2": {
+      "commandName": "WSL2",
+      "launchBrowser": true,
+      "launchUrl": "http://localhost:5000/swagger",
+      "environmentVariables": {
+        "ASPNETCORE_URLS": "http://localhost:5000",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "distributionName": ""
+    }
+  }
+}
